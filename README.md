@@ -1,6 +1,7 @@
 - Hi, I’m Josh Roddy (@jbroddy), a Computer Science Undergrad at North Carolina State University
 - I’m interested in Software Development and Data Analysis, especially as it pertains to Meteorology and serving people
-- I’m currently learning Data Structures and Software Engineering in Java and C, and Machine Learning in Python
+- I’m currently learning processes of Software Engineering and how to work with a team of Engineers, as well as Database Management.
+- In the past I have learned about Data Structures, Software Principles in Java and C, and Machine Learning in Python
 - I’m looking to collaborate on any cool projects you might like to share with me!  
 - How to reach me: joshuabroddy@gmail.com
 
