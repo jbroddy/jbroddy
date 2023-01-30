@@ -6,7 +6,7 @@
 - I’m looking to collaborate on any cool projects you might like to share with me!  
 - How to reach me: joshuabroddy@gmail.com
 
-In a recent project for my Automated Learing and Data Analysis Class, my team used a Kickstarter Projects dataset from Kaggle and built an ensemble to predict how successful fundraising campaigns would be: https://github.com/gavinhardin/kickstarter-ensemble
+In a 2021 project for my Automated Learing and Data Analysis Class, my team used a Kickstarter Projects dataset from Kaggle and built an ensemble to predict how successful fundraising campaigns would be: https://github.com/jbroddy/kickstarter-ensemble
 
 <!---
 jbroddy/jbroddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
